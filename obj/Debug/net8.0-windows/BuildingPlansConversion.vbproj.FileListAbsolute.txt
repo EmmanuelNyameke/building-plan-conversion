@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\BuildingPlansConversion\bin\Debug\net8.0-windows\BuildingPlansConversion.exe
+C:\Users\HELLO\Source\Repos\BuildingPlansConversion\bin\Debug\net8.0-windows\BuildingPlansConversion.deps.json
+C:\Users\HELLO\Source\Repos\BuildingPlansConversion\bin\Debug\net8.0-windows\BuildingPlansConversion.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\BuildingPlansConversion\bin\Debug\net8.0-windows\BuildingPlansConversion.dll
+C:\Users\HELLO\Source\Repos\BuildingPlansConversion\bin\Debug\net8.0-windows\BuildingPlansConversion.pdb
+C:\Users\HELLO\Source\Repos\BuildingPlansConversion\obj\Debug\net8.0-windows\BuildingPlansConversion.frmPlans.resources
+C:\Users\HELLO\Source\Repos\BuildingPlansConversion\obj\Debug\net8.0-windows\BuildingPlansConversion.Resources.resources
+C:\Users\HELLO\Source\Repos\BuildingPlansConversion\obj\Debug\net8.0-windows\BuildingPlansConversion.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\BuildingPlansConversion\obj\Debug\net8.0-windows\BuildingPlansConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\BuildingPlansConversion\obj\Debug\net8.0-windows\BuildingPlansConversion.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\BuildingPlansConversion\obj\Debug\net8.0-windows\BuildingPlansConversion.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\BuildingPlansConversion\obj\Debug\net8.0-windows\BuildingPlansConversion.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\BuildingPlansConversion\obj\Debug\net8.0-windows\BuildingPlansConversion.dll
+C:\Users\HELLO\Source\Repos\BuildingPlansConversion\obj\Debug\net8.0-windows\refint\BuildingPlansConversion.dll
+C:\Users\HELLO\Source\Repos\BuildingPlansConversion\obj\Debug\net8.0-windows\BuildingPlansConversion.pdb
+C:\Users\HELLO\Source\Repos\BuildingPlansConversion\obj\Debug\net8.0-windows\BuildingPlansConversion.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\BuildingPlansConversion\obj\Debug\net8.0-windows\ref\BuildingPlansConversion.dll
